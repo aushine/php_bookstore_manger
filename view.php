@@ -11,6 +11,8 @@
 			top:center;
 			right:0;
 
+
+
 		}
 		.navi li{
 			float:left;
